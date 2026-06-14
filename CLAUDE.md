@@ -13,3 +13,12 @@ To learn about another project: brain_search("<project> integration") or read EM
 in jharriGH/kjle -> that repo's PROJECT_FACTS.md -> brain_vault_search for its key.
 Repo edits: this repo only, explicit paths, never `git add -A`.
 
+
+<!-- KJE-ONBOARD-V1 -->
+## KJ Empire — SC Onboarding
+This repo belongs to the KJ Empire (DevelopingRiches Inc, owner Jim Harris / jharriGH).
+- Central repo: jharriGH/kjle. Brain: https://jim-brain-production.up.railway.app
+- New SC seats: run brain_status, brain_search this repo's slug, and verify live state before declaring anything done.
+- Decide-and-proceed. Cost-gate chargeable dispatches. Never echo secrets — pull keys from the Brain vault.
+- See ROADMAP.md for status.
+<!-- /KJE-ONBOARD-V1 -->
